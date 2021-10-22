@@ -1,15 +1,31 @@
-# Javascript-
-Some codes for javascript for practice
 
-1. Even or odd. 
-Simply run the program in terminal with node evenorodd.js
+# JavaScript Assignment
 
-2. Fibonacci
-Open the html file in a web browser and provide the number to get the fibonacci series.
+Updated all the previous codes. You can edit the codes and pass the variables you want to check
 
-3. filter of odd or even  numbers.
-Simply running the code with node filter.js
 
-4. Return Product
-Simply open in IDE. then there are two ways shown execute the portion differently and not together. 
-Comment out the second part while running the first one and vice versa. Just type node returnproduct.js and run the code.
+
+## Odd or Even Filter 
+
+Open file in editor and run
+
+```bash
+  node evenorodd.js
+```
+## Fibonacci Sequence
+Open file in editor and run the following command. Pass an argument along with the run like shown below.
+
+```bash
+  node fibonacciSequence.js 'number'
+```
+  
+## Filter
+open the file in the editor and simply run the command
+```bash
+  node filter.js 
+```
+## Return Product of the array
+open the file in the editor and simply run the command
+```bash
+  node filter.js 
+```
